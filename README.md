@@ -1,6 +1,20 @@
 # About Us
 
-The Office of Digital Innovation and Stewardship (ODIS) helps UA faculty, researchers, and students with every stage of their research.
+The Office of Digital Innovation and Stewardship (ODIS) helps UA faculty, researchers, and students with every stage of their research. We have two functional units:
+
+ 1. Data Cooperative
+ 2. Scholarly Communications
+
+Members of the Data Cooperative:
+
+| GitHub | Name | Role/Title | 
+| :----- | :--- | :---- |
+| [![Jeff Oliver](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F1939813?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/jcoliver) | Jeff Oliver | Data Science Specialist |
+| [![Fernando Rios](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F7082025?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/zoidy) | Fernando Rios | Data Management Specialist |
+| [![Chun Ly](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F20305734?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/astrochun) | Chun Ly | Research Data Systems Integration Specialist |
+| [![Kiri Carini](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F9040572?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/kcarini) | Kiri Carini | GIS Specialist |
+| [![Damian Romero](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F12145757?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/damian-romero) | Damian Romero | Research Data Repository Graduate Assistant |
+| [![Jonathan Ratliff](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F690818?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/orgs/UAL-ODIS/people/jonathannoah) | Jonathan Ratliff | Research Data Repository Assistant |
 
 ## Experience
 
