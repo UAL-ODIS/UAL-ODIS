@@ -14,7 +14,7 @@ Members of the Data Cooperative:
 | [![Chun Ly](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F20305734?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/astrochun) | Chun Ly | Research Data Systems Integration Specialist |
 | [![Kiri Carini](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F9040572?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/kcarini) | Kiri Carini | GIS Specialist |
 | [![Damian Romero](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F12145757?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/damian-romero) | Damian Romero | Research Data Repository Graduate Assistant |
-| [![Jonathan Ratliff](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F690818?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/orgs/UAL-ODIS/people/jonathannoah) | Jonathan Ratliff | Research Data Repository Assistant |
+| [![Jonathan Ratliff](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F690818?v%3D4&h=75&w=75&fit=cover&mask=circle&maxage=7d)](https://github.com/jonathannoah) | Jonathan Ratliff | Research Data Repository Assistant |
 
 ## Experience
 
