@@ -1,9 +1,10 @@
 # About Us
 
-The Office of Digital Innovation and Stewardship (ODIS) helps UA faculty, researchers, and students with every stage of their research. We have two functional units:
+Research Engagement (RE) helps UA faculty, researchers, and students with every stage of their research. We have three functional units:
 
- 1. Data Cooperative
- 2. Scholarly Communications
+ 1. Research Incubator
+ 2. Data Cooperative
+ 3. Scholarly Communications
 
 Members of the Data Cooperative:
 
